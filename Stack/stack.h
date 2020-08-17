@@ -1,7 +1,6 @@
 #ifndef __STACK_H
 #define __STACK_H
 
-
 /*
  * Data types declarations.
  */
@@ -30,7 +29,6 @@ typedef struct Stack {
 	unsigned int size;
 } Stack;
 #endif
-
 
 /*
  * Function prototypes.
